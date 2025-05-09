@@ -24,7 +24,7 @@ int main()
     {
         if (var.getNombre() == "Velocidad")
         {
-            std::cout << "\n--- Fuzzificación de Velocidad = 70 ---\n";
+            std::cout << "\n--- Fuzzificacion de Velocidad = 70 ---\n";
             var.fuzzificar(70.0f);
         }
     }
