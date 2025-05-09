@@ -1,0 +1,14 @@
+# Variable: Velocidad
+Velocidad 0 120
+Baja TRIANGULAR 0 0 40
+Media TRIANGULAR 30 60 90
+Alta TRIANGULAR 80 120 120
+
+# Variable: Distancia
+Distancia 0 20
+MuyCerca TRAPEZOIDAL 0 0 2 4
+Cerca TRIANGULAR 3 6 9
+Media TRIANGULAR 8 10 12
+Lejos TRIANGULAR 11 14 17
+MuyLejos TRAPEZOIDAL 16 18 20 20
+ 
